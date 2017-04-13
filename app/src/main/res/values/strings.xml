@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mathster</string>
+    <string name="question_1">$s</string>
+    <string name="hard_question">$d</string>
+    <string name="easy_question_1">$d</string>
+    <string name="easy_question_2">$d</string>
+    <string name="easy_question_3">$d</string>
+    <string name="normal_question">$d</string>
+    <string name="text_for_question">Text for question</string>
+    <string name="submit">Submit</string>
+    <string name="results">$s</string>
+    <string name="restart_text">Play Again</string>
+
+</resources>
